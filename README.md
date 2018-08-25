@@ -54,109 +54,70 @@ body::before {
 
 </head>
 <body>
-<h1><span class="yellow"><marquee behavior="left">!!! 益子ひまわり祭り、2018/08/11(土)~19(日) !!!</marquee></span></h1>
-<p align="right">2018年8月15日,朝7:50頃＠益子ひまわり祭り</p>
+<h1><span class="yellow"><marquee behavior="left">!!! ひたち海浜公園ネモフィラ、2018/04/20(金) !!!</marquee></span></h1>
+<p align="right">2018年4月20日,昼12:50頃＠ひたち海浜公園</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~torokoid</marquee></p>
 <h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>	
-<a href="mashiko01.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini01.JPG" alt="ひまわり写真">
+<a href="hitachi001.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi001.JPG" alt="ネモフィラ写真">
 </a>
-<a href="mashiko02.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini02.JPG" alt="ひまわり写真">
+<a href="hitachi002.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi002.JPG" alt="ネモフィラ写真">
 </a>	
-<a href="mashiko03.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini03.JPG" alt="ひまわり写真">
+<a href="hitachi003.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi003.JPG" alt="ネモフィラ写真">
 </a>	
-<a href="mashiko04.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini04.JPG" alt="ひまわり写真">
+<a href="hitachi004.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi004.JPG" alt="ネモフィラ写真">
 </a>	
-<a href="mashiko05.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini05.JPG" alt="ひまわり写真">
+<a href="hitachi005.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi005.JPG" alt="ネモフィラ写真">
 </a>
-<a href="mashiko06.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini06.JPG" alt="ひまわり写真">
+<a href="hitachi006.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi006.JPG" alt="ネモフィラ写真">
 </a>
-<a href="mashiko07.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini07.JPG" alt="ひまわり写真">
+<a href="hitachi007.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi007.JPG" alt="ネモフィラ写真">
 </a>
-<a href="mashiko08.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini08.JPG" alt="ひまわり写真">
+<a href="hitachi008.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi008.JPG" alt="ネモフィラ写真">
 </a>
-<a href="mashiko09.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini09.JPG" alt="ひまわり写真">
+<a href="hitachi009.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi009.JPG" alt="ネモフィラ写真">
 </a>
-<a href="mashiko10.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini10.JPG" alt="ひまわり写真">
+<a href="hitachi010.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi010.JPG" alt="ネモフィラ写真">
 </a>
-<a href="mashiko11.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini11.JPG" alt="ひまわり写真">
+<a href="hitachi011.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi011.JPG" alt="ネモフィラ写真">
 </a>
-<a href="mashiko12.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini12.JPG" alt="ひまわり写真">
+<a href="hitachi012.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi012.JPG" alt="ネモフィラ写真">
+</a>	
+<a href="hitachi013.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi013.JPG" alt="ネモフィラ写真">
+</a>	
+<a href="hitachi014.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi014.JPG" alt="ネモフィラ写真">
+</a>	
+<a href="hitachi015.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi015.JPG" alt="ネモフィラ写真">
 </a>
-<a href="mashiko13.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini13.JPG" alt="ひまわり写真">
+<a href="hitachi016.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi016.JPG" alt="ネモフィラ写真">
 </a>
-<a href="mashiko14.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini14.JPG" alt="ひまわり写真">
+<a href="hitachi017.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi017.JPG" alt="ネモフィラ写真">
 </a>
-<a href="mashiko15.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini15.JPG" alt="ひまわり写真">
+<a href="hitachi018.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi018.JPG" alt="ネモフィラ写真">
 </a>
-<a href="mashiko16.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini16.JPG" alt="ひまわり写真">
+<a href="hitachi019.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi019.JPG" alt="ネモフィラ写真">
 </a>
-<a href="mashiko17.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini17.JPG" alt="ひまわり写真">
-</a>
-<a href="mashiko18.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini18.JPG" alt="ひまわり写真">
-</a>
-<a href="mashiko19.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini19.JPG" alt="ひまわり写真">
-</a>
-<a href="mashiko20.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini20.JPG" alt="ひまわり写真">
-</a>
-<a href="mashiko21.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini21.JPG" alt="ひまわり写真">
-</a>
-<a href="mashiko22.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini22.JPG" alt="ひまわり写真">
-</a>
-<a href="mashiko23.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini23.JPG" alt="ひまわり写真">
-</a>
-<a href="mashiko24.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini24.JPG" alt="ひまわり写真">
-</a>
-<a href="mashiko25.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini25.JPG" alt="ひまわり写真">
-</a>
-<a href="mashiko26.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini26.JPG" alt="ひまわり写真">
-</a>
-<a href="mashiko27.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini27.JPG" alt="ひまわり写真">
-</a>
-<a href="mashiko28.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini28.JPG" alt="ひまわり写真">
-</a>
-<a href="mashiko29.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini29.JPG" alt="ひまわり写真">
-</a>
-<a href="mashiko30.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini30.JPG" alt="ひまわり写真">
-</a>
-<a href="mashiko31.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini31.JPG" alt="ひまわり写真">
-</a>
-<a href="mashiko32.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini32.JPG" alt="ひまわり写真">
-</a>
-<a href="mashiko33.JPG" data-lightbox="abc" data-title="ひまわり写真拡大">
-   <img src="mini33.JPG" alt="ひまわり写真">
+<a href="hitachi020.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+   <img src="hitachi020.JPG" alt="ネモフィラ写真">
 </a>
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
