@@ -190,7 +190,7 @@ body::before {
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 <br><br>
 <h4><span class="white">↓ひたち海浜公園HPへのリンク</span></h4>
-<a href="http://www.town.mashiko.tochigi.jp/page/dir000394.html" target="_blank">ひたち海浜公園</a>
+<a href="http://hitachikaihin.jp/" target="_blank">ひたち海浜公園</a>
 <br><br><br><br><br>
 </body>
 	</html>
