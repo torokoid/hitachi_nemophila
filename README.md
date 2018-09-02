@@ -167,22 +167,22 @@ body::before {
 <a href="hitachi036.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
    <img src="hitachii036.JPG" alt="ネモフィラ写真">
 </a>
-<a href="hitachi037.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+<a href="hitachi037.JPG" data-lightbox="abc" data-title="菜の花写真拡大">
    <img src="hitachii037.JPG" alt="ネモフィラ写真">
 </a>
-<a href="hitachi038.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+<a href="hitachi038.JPG" data-lightbox="abc" data-title="菜の花写真拡大">
    <img src="hitachii038.JPG" alt="ネモフィラ写真">
 </a>
-<a href="hitachi039.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+<a href="hitachi039.JPG" data-lightbox="abc" data-title="菜の花写真拡大">
    <img src="hitachii039.JPG" alt="ネモフィラ写真">
 </a>
-<a href="hitachi040.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+<a href="hitachi040.JPG" data-lightbox="abc" data-title="菜の花写真拡大">
    <img src="hitachii040.JPG" alt="ネモフィラ写真">
 </a>
-<a href="hitachi041.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+<a href="hitachi041.JPG" data-lightbox="abc" data-title="菜の花写真拡大">
    <img src="hitachii041.JPG" alt="ネモフィラ写真">
 </a>
-<a href="hitachi042.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
+<a href="hitachi042.JPG" data-lightbox="abc" data-title="菜の花写真拡大">
    <img src="hitachii042.JPG" alt="ネモフィラ写真">
 </a>	
 <a href="hitachi043.JPG" data-lightbox="abc" data-title="チューリップ写真拡大">
