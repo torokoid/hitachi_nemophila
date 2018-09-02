@@ -284,7 +284,7 @@ body::before {
 <br><br>
 <h4><span class="white">↓ひたち海浜公園HPへのリンク</span></h4>
 <a href="http://hitachikaihin.jp/" target="_blank">ひたち海浜公園</a>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </body>
 	</html>
 	
